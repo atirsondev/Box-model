@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.topo div {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.topo {
+    width: 100%;
+    background-color: #4710c1;
+    padding: 20px 0;
+    color: #fff;
+    font-size: 22px;
+}
+
+.topo span {
+    margin: 0 30px;
+}
+
+.topo a {
+    margin: 0 6px;
+    background-color: #fff;
+    padding: 7px 15px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    color: #4710c1;
+}
+
+.capa {
+    width: 100%;
+}
+
+.main {
+    width: 100%;
+    max-width: 1024px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.area p {
+    line-height: 30px;
+    text-align: left;
+}
+
+.area h2 {
+    text-align: center;
+    padding: 30px 0;
+}
+
+#disponibilidade img{
+    width: 100%;
+    margin-bottom: 12px;
+}
+
+#disponibilidade, .area-imagens {
+    margin-bottom: 12px;
+}
+
+.imagens {
+    width: 100%;
+    display: flex;
+    overflow-x: scroll;
+    margin: 15px 0 20px 0;
+}
+
+.imagens img{
+    width: 315px;
+    display: inline;
+    margin: 10px;
+    box-shadow: 10px 10px 10px 0 #939393;
+}
+.area-imagens p {
+    height: 27px;
+}
+
+.link-hbo {
+    margin: 13px 0 15px 0;
+}
+
+.rodape {
+ width: 100%;
+ background-color: #4710c1;
+ padding: 12px 0;
+ text-align: center;
+ color: #fff;
+}
+
+
+
